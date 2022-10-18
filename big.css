@@ -1,0 +1,11 @@
+.test {
+  font-style: oblique;
+  font-weight: bolder;
+
+  color:white;
+  background:lightblue;
+  background-image: url(https://modnica.club/uploads/posts/2021-11/thumbs/1636134837_1-modnica-club-p-krasivii-fon-dlya-teksta-odnotonnii-temnii-1.jpg);
+}
+ .test3 {
+   border-radius: 10px;
+ }
